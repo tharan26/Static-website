@@ -19,4 +19,4 @@ HTML File: Contains the structure of the webpage.
 
 CSS File: Contains styles for the header, logo, and navigation bar.
 
-Note:Edit the logo and favicon respectively.
+Note : Edit the logo and favicon respectively.
